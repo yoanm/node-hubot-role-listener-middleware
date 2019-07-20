@@ -1,7 +1,7 @@
 {
   "name": "hubot-role-listener-middleware",
   "description": "Hubot script to manage user roles for each hubot listener",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Yoanm <yoanm@users.noreply.github.com>",
   "license": "MIT",
   "keywords": [

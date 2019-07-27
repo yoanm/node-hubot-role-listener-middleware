@@ -1,4 +1,4 @@
-# hubot-hubot-role-listener-middleware
+# hubot-role-listener-middleware
 
 Hubot script to manage user roles for each hubot listener
 
@@ -8,13 +8,13 @@ See [`src/hubot-role-listener-middleware.coffee`](src/hubot-role-listener-middle
 
 In hubot project repo, run:
 
-`npm install hubot-hubot-role-listener-middleware --save`
+`npm install hubot-role-listener-middleware --save`
 
-Then add **hubot-hubot-role-listener-middleware** to your `external-scripts.json`:
+Then add **hubot-role-listener-middleware** to your `external-scripts.json`:
 
 ```json
 [
-  "hubot-hubot-role-listener-middleware"
+  "hubot-role-listener-middleware"
 ]
 ```
 
@@ -27,4 +27,4 @@ hubot>> hello!
 
 ## NPM Module
 
-https://www.npmjs.com/package/hubot-hubot-role-listener-middleware
+https://www.npmjs.com/package/hubot-role-listener-middleware

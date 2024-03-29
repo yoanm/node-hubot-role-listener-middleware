@@ -16,6 +16,7 @@
   "bugs": {
     "url": "https://github.com/hubot-scripts/hubot-role-listener-middleware/issues"
   },
+  "dependencies": {},
   "peerDependencies": {
     "hubot": "3.x",
     "coffeescript": "1.x"

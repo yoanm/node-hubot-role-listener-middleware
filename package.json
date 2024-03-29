@@ -18,7 +18,8 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "hubot": "3.x"
+    "hubot": "3.x",
+    "coffeescript": "1.x"
   },
   "devDependencies": {},
   "main": "index.coffee",
